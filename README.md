@@ -10,7 +10,7 @@ i've been learning to code from class 8 and i am pretty fluent in java and pytho
 * ✉️  You can contact me at [secretserviceavs@gmail.com](mailto:secretserviceavs@gmail.com)
 * 🧠  I'm learning Javascript , NodeJs
 * 🤝  I'm open to collaborating on AnyProjects
-* ⚡  Gym Rat
+* ⚡  chatGPT is my right hand commander
 * https://subansiri-website.vercel.app/ 
 * https://spider-omega.vercel.app/ 
 

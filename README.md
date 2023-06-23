@@ -8,7 +8,7 @@ i've been learning to code from class 8 and i am pretty fluent in java and pytho
 
 * 🌍  I'm based in Linux , Terminal , 3rd Directory
 * ✉️  You can contact me at [secretserviceavs@gmail.com](mailto:secretserviceavs@gmail.com)
-* 🧠  I'm learning Javascript , NodeJs
+* 🧠  I'm learning NodeJs , OCaml & HTMX
 * 🤝  I'm open to collaborating on AnyProjects
 * ⚡  chatGPT is my right hand commander
 * https://subansiri-website.vercel.app/ 

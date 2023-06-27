@@ -13,7 +13,7 @@ i've been learning to code from class 8 and i am pretty fluent in java and pytho
 * ⚡  chatGPT is my right hand commander
 * https://subansiri-website.vercel.app/ 
 * https://spider-omega.vercel.app/
-* whiteye.in
+* [whiteye.in](https://whiteye.in/)
 
 
 

@@ -4,18 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Undergrad Student
 -----------------
 
-i've been learning to code from class 8 and i am pretty fluent in java and python , have been wanting you learn to code in javascript and other web-dev frameworks , since i have been making static sites for years but never thought of learning javascript or something similar , and now i think its already hightime i start learning some serious web-dev ....Well thats enough on me , you tell me how are you doing
-
-* 🌍  I'm based in Linux , Terminal , 3rd Directory
-* ✉️  You can contact me at [secretserviceavs@gmail.com](mailto:secretserviceavs@gmail.com)
-* 🧠  I'm learning NodeJs , OCaml & HTMX
-* 🤝  I'm open to collaborating on AnyProjects
-* ⚡  chatGPT is my right hand commander
-* https://subansiri-website.vercel.app/ 
-* https://spider-omega.vercel.app/
-* [whiteye.in](https://whiteye.in/)
-
-
+i've been learning to code from class 8 , making discord bots and working extensively with web frameworks , interested in making something that people use extensively - possibly something thats mass adopted and appreciated .
+* 🌍  I'm based in Terminal 
+* ✉️  You can contact me at [aaryan@whiteye.in](mailto:aaryan@whiteye.in)
+* 🧠  Learning everything thats within reach
+* 🤝  Open to colab
+* ⚡  AI Enthu (everyone is)
 
 ### Socials
 
